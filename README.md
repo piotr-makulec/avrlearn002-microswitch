@@ -1,5 +1,4 @@
 # avrlearn002-microswitch
-# avrlearn001-LED
 Piotr Makulec, 26NO2025
 This repo is a part of my AVR self-learning journey.
 The code was written in C for ATmega328p (Arduino).
